@@ -1,0 +1,7 @@
+title: mendelevium's Blog
+description: A blog powered by Jekyll and GitHub Pages
+permalink: /:title/
+plugins:
+  - jekyll-feed
+header_pages:
+  - about.md
