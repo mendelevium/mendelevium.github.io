@@ -3,8 +3,6 @@ layout: post
 title: Introducing GitBlog
 date: "2026-02-22"
 ---
-# How to Set Up and Use GitBlog
-
 GitBlog is a Chrome extension that turns your browser into a full content management system for Jekyll + GitHub Pages blogs. There's no backend, no server to maintain — just your browser talking directly to GitHub's API.
 
 If you've ever wanted a simple, visual way to manage your Jekyll blog without touching the terminal, this guide walks you through getting started.
