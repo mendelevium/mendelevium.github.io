@@ -1,5 +1,5 @@
-title: mendelevium
-description: A blog powered by Jekyll and GitHub Pages
+title: martindionne.com
+description: A blog powered by GitBlog
 plugins:
   - jekyll-feed
 header_pages:
