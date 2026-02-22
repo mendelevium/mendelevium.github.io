@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing GitBlog
-date: "2026-02-21"
+date: "2026-02-22"
 ---
 # How to Set Up and Use GitBlog
 
