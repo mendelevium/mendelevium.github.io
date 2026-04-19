@@ -1,2 +1,3 @@
-# mendelevium.github.io
-My blog powered by Jekyll and GitHub Pages
+# Personal Blog
+My blog powered by Jekyll and GitHub Pages made with [gitblog](https://github.com/mendelevium/gitblog):
+[mendelevium.github.io](mendelevium.github.io)
