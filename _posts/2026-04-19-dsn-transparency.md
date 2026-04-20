@@ -1,16 +1,9 @@
 ---
 layout: post
-<<<<<<< HEAD
 title: DNS "transparency"
 date: "2026-04-19"
 ---
 The ISP's So-Called DNS Transparency, and the Quiet Erosion of Your Privacy
-=======
-title: The Invisible Leak
-date: "2026-04-19"
----
-DNS, ISP Transparency, and the Quiet Erosion of Your Privacy
->>>>>>> 0750e6e35574ce3007ac4d7a0c3005d94374f841
 
 > *Every website you visit. Every app you open. Every domain you touch. Before a single byte of content reaches you, a request goes out into the open — and someone is almost certainly watching.*
 
