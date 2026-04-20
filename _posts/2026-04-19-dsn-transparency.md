@@ -1,9 +1,16 @@
 ---
 layout: post
+<<<<<<< HEAD
 title: DNS "transparency"
 date: "2026-04-19"
 ---
 The ISP's So-Called DNS Transparency, and the Quiet Erosion of Your Privacy
+=======
+title: The Invisible Leak
+date: "2026-04-19"
+---
+DNS, ISP Transparency, and the Quiet Erosion of Your Privacy
+>>>>>>> 0750e6e35574ce3007ac4d7a0c3005d94374f841
 
 > *Every website you visit. Every app you open. Every domain you touch. Before a single byte of content reaches you, a request goes out into the open — and someone is almost certainly watching.*
 
@@ -350,6 +357,7 @@ If using a VPN, verify that:
 3. **IPv6 is disabled or tunneled** — Prevents IPv6 DNS leakage
 4. **WebRTC is disabled in browser settings** — Prevents browser-level IP and DNS leaks
 
+<<<<<<< HEAD
 ### Countermeasure Effectiveness Summary
 
 Not all countermeasures defend against the same threat. DNS leakage (queries escaping a 
@@ -373,6 +381,8 @@ destination reconstruction from network traffic.
 | ECH                     | ❌ None          | ❌ None      | ✅ Yes — encrypts SNI |
 | DNSSEC                  | N/A              | N/A          | N/A                   |
 
+=======
+>>>>>>> 0750e6e35574ce3007ac4d7a0c3005d94374f841
 **Verification tools:**
 - `dnsleaktest.com` — Tests which resolver(s) your queries reach
 - `ipleak.net` — Comprehensive IP, DNS, and WebRTC leak test
