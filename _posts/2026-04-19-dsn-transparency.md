@@ -350,7 +350,6 @@ If using a VPN, verify that:
 3. **IPv6 is disabled or tunneled** — Prevents IPv6 DNS leakage
 4. **WebRTC is disabled in browser settings** — Prevents browser-level IP and DNS leaks
 
-<<<<<<< HEAD
 ### Countermeasure Effectiveness Summary
 
 Not all countermeasures defend against the same threat. DNS leakage (queries escaping a 
@@ -374,8 +373,6 @@ destination reconstruction from network traffic.
 | ECH                     | ❌ None          | ❌ None      | ✅ Yes — encrypts SNI |
 | DNSSEC                  | N/A              | N/A          | N/A                   |
 
-=======
->>>>>>> 0750e6e35574ce3007ac4d7a0c3005d94374f841
 **Verification tools:**
 - `dnsleaktest.com` — Tests which resolver(s) your queries reach
 - `ipleak.net` — Comprehensive IP, DNS, and WebRTC leak test
