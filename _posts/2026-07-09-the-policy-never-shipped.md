@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Policy That Never Shipped
