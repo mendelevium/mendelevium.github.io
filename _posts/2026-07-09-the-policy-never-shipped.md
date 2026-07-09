@@ -5,7 +5,7 @@ date: "2026-07-09"
 ---
 A cautionary tale about shadow governance, AI, and the quiet weaponization of ambiguity
 
-The following is fictionnal depiction based on a true story. Names, timelines, and identifying details have been changed. If you lead security, IT, HR, or a startup — this one is for you.
+The following is an AI model depiction based on a true story. Names, timelines, and identifying details have been changed. If you lead security, IT, HR, or a startup — this one is for you.
 
 ---
 
