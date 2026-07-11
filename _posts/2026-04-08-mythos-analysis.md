@@ -17,11 +17,7 @@ Anthropic's disclosure today about Claude Mythos Preview is not a product announ
 
 The security community is accustomed to incremental improvements in tooling. What Anthropic describes with Mythos Preview is not incremental. The numbers tell a stark story:
 
-| Metric | Figure |
-|--------|--------|
-| Improvement over Opus 4.6 on Firefox exploit benchmark | **181×** |
-| Full control-flow hijacks (tier 5) on fully-patched OSS-Fuzz targets | **10** |
-| API cost to build a complete Linux kernel LPE exploit chain | **<$1,000** |
+> Mythos Preview is 181× better than Opus 4.6 at Firefox exploitation, achieved ten top-tier control-flow hijacks on fully-patched targets, and can produce a complete Linux kernel privilege escalation chain for under $1,000 — collapsing what was once specialist tradecraft into a cheap, automated commodity.
 
 To understand why the 181× figure matters, you need context. Opus 4.6 — itself a frontier model — succeeded in generating Firefox shell exploits only twice in hundreds of attempts. Mythos Preview succeeded 181 times on the same corpus. This is not a marginal improvement. It is a phase transition.
 
