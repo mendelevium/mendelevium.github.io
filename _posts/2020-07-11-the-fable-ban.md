@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Fable Ban — When Washington Switched Off a Frontier Model
+title: The Fable Ban
 date: "2026-07-11"
 ---
 Washington did something no government had done before: it reached into a live product and switched off America's most powerful AI model — and the reason it gave didn't hold up.
