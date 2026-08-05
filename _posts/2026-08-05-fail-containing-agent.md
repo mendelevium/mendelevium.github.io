@@ -1,6 +1,9 @@
-# Can't and Won't
-
-### There are only two ways to contain an autonomous agent. In July 2026, both failed — three weeks apart, in public, with receipts.
+---
+layout: post
+title: How to Fail at Containing an Agent
+date: "2026-08-05"
+---
+There are only two ways to contain an autonomous agent. In July 2026, both failed — three weeks apart, in public, with receipts.
 
 ---
 
