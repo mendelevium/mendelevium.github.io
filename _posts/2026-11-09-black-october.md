@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black October Was an Invoice, Not a Storm
-date: "2026-01-09"
+date: "2026-11-09"
 ---
 What actually happened in the worst week of 2026, why it happened, and why the next one will not wait for October
 
